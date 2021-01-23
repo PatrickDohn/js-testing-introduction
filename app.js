@@ -1,5 +1,5 @@
 const { generateText, createElement, validateInput } = require('./util');
-
+// test
 const initApp = () => {
   // Initializes the app, registers the button click listener
   const newUserButton = document.querySelector('#btnAddUser');
